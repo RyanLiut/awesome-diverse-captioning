@@ -56,7 +56,7 @@ A curated list of diverse image (mainly, sometimes video) captioning. Note that 
 
 ## 2019
 
-1. POS: [Fast, Diverse and Accurate Image Captioning Guided By Part-of-Speech]([Fast, Diverse and Accurate Image Captioning Guided by Part-Of-Speech (thecvf.com)](https://openaccess.thecvf.com/content_CVPR_2019/papers/Deshpande_Fast_Diverse_and_Accurate_Image_Captioning_Guided_by_Part-Of-Speech_CVPR_2019_paper.pdf))
+1. POS: [Fast, Diverse and Accurate Image Captioning Guided by Part-Of-Speech](https://openaccess.thecvf.com/content_CVPR_2019/papers/Deshpande_Fast_Diverse_and_Accurate_Image_Captioning_Guided_by_Part-Of-Speech_CVPR_2019_paper.pdf)
 
    *Aditya Deshpande, Jyoti Aneja, Liwei Wang, Alexander Schwing, David Forsyth*
 
@@ -69,6 +69,7 @@ A curated list of diverse image (mainly, sometimes video) captioning. Note that 
    `ICCV 2019`
 
 3. [Controllable Video Captioning With POS Sequence Guidance Based on Gated Fusion Network](https://arxiv.org/abs/1908.10072)
+   
    *Bairui Wang, Lin Ma, Wei Zhang, Wenhao Jiang, Jingwen Wang, Wei Liu*
 
    `ICCV 2019` [[pytorch-code](https://github.com/vsislab/Controllable_XGating)]
@@ -80,6 +81,7 @@ A curated list of diverse image (mainly, sometimes video) captioning. Note that 
    `NIPS 2019`
 
 5. [Show, Control and Tell: A Framework for Generating Controllable and Grounded Captions](https://arxiv.org/pdf/1811.10652.pdf) 
+   
    *Marcella Cornia, Lorenzo Baraldi, Rita Cucchiara*
 
    `CVPR 2019` [[pytorch-code](https://github.com/aimagelab/show-control-and-tell)] 

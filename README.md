@@ -13,11 +13,13 @@ A curated list of diverse image (mainly, sometimes video) captioning. Note that 
    `CVPR 2021`
 
 2. [Towards Accurate Text-Based Image Captioning With Content Diversity Exploration](https://openaccess.thecvf.com/content/CVPR2021/papers/Song_Towards_Diverse_Paragraph_Captioning_for_Untrimmed_Videos_CVPR_2021_paper.pdf)
+
    *Guanghui Xu, Shuaicheng Niu, Mingkui Tan, Yucheng Luo, Qing Du, Qi Wu*
 
    `CVPR 2021`
 
 3. [Open-Book Video Captioning With Retrieve-Copy-Generate Network](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Open-Book_Video_Captioning_With_Retrieve-Copy-Generate_Network_CVPR_2021_paper.pdf)
+
    *Ziqi Zhang, Zhongang Qi, Chunfeng Yuan, Ying Shan, Bing Li, Ying Deng, Weiming Hu*
 
    `CVPR 2021`

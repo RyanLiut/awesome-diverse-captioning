@@ -142,11 +142,13 @@ A curated list of diverse image (mainly, sometimes video) captioning. Note that 
 
    *Moitreya Chatterjee and Alexander G. Schwing*
 
-   ECCV 2018 [[pytorch-code](https://github.com/metro-smiles/CapG_RevG_Code)]
+   `ECCV 2018` [[pytorch-code](https://github.com/metro-smiles/CapG_RevG_Code)]
 
 4. [Categorizing Concepts With Basic Level for Vision-to-Language](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Categorizing_Concepts_With_CVPR_2018_paper.pdf) 
    
    *Hanzhang Wang, Hanli Wang, Kaisheng Xu*
+   
+   `CVPR 2018`
 
 
 

@@ -41,11 +41,15 @@ A curated list of diverse image (mainly, sometimes video) captioning. Note that 
    `NIPS 2020` [[pytorch-code](https://github.com/visinf/cos-cvae)] [[review](https://papers.nips.cc/paper/2020/file/24bea84d52e6a1f8025e313c2ffff50a-Review.html)]
 
 3. [On Diversity in Image Captioning: Metrics and Methods](https://doi.ieeecomputersociety.org/10.1109/TPAMI.2020.3013834)
+   
    *Qingzhong Wang and Jia Wan and Antoni B. Chan*
+   
    `TPAMI 2020`  [[pytorch-code](https://github.com/qingzwang/DiverseImageCaptioning)]
 
 4. [Improving Image Captioning Evaluation by Considering Inter References Variance](https://www.aclweb.org/anthology/2020.acl-main.93.pdf)
+   
    *Yanzhi Yi and Hangyu Deng and Jinglu Hu*
+   
    `ACL 2020` [[code](https://github.com/ck0123/improved-bertscore-for-image-captioning-evaluation)]
 
    
@@ -81,30 +85,37 @@ A curated list of diverse image (mainly, sometimes video) captioning. Note that 
    `CVPR 2019` [[pytorch-code](https://github.com/aimagelab/show-control-and-tell)] 
 
 6. [Towards Diverse and Accurate Image Captions via Reinforcing Determinantal Point Process](https://arxiv.org/abs/1908.04919)
+   
    *Wang, Qingzhong and Chan, Antoni B*
+   
    `Arxiv 2019` [[pytorch-code](https://github.com/qingzwang/DiverseImageCaptioning)]
 
 7. [Curiosity-driven Reinforcement Learning for Diverse Visual Paragraph Generation](https://arxiv.org/pdf/1908.00169) 
+   
    *Yadan Luo, Zi Huang, Zheng Zhang, Ziwei Wang, Jingjing Li, Yang Yang*
 
    `ACM MM 2019`
 
 8. [Engaging Image Captioning via Personality](https://openaccess.thecvf.com/content_CVPR_2019/papers/Shuster_Engaging_Image_Captioning_via_Personality_CVPR_2019_paper.pdf)
+   
    *Kurt Shuster, Samuel Humeau, Hexiang Hu, Antoine Bordes, Jason Weston*
 
    `CVPR 2019` [[Openreview for ICLR 19](https://openreview.net/forum?id=HJN6DiAcKQ)]
 
 8. [Sequential Latent Spaces for Modeling the Intention During Diverse Image Captioning](https://openaccess.thecvf.com/content_ICCV_2019/papers/Aneja_Sequential_Latent_Spaces_for_Modeling_the_Intention_During_Diverse_Image_ICCV_2019_paper.pdf)
+   
    *Jyoti Aneja, Harsh Agrawal, Dhruv Batra, Alexander Schwing*
 
    `ICCV 2019` 
 
 9. [Describing Like Humans: On Diversity in Image Captioning](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Describing_Like_Humans_On_Diversity_in_Image_Captioning_CVPR_2019_paper.pdf)
+   
    *Qingzhong Wang, Antoni B. Chan*
 
    `CVPR 2019`
 
 10. [MSCap: Multi-Style Image Captioning With Unpaired Stylized Text](https://openaccess.thecvf.com/CVPR2019_search)
+    
     *Longteng Guo, Jing Liu, Peng Yao, Jiangwei Li, Hanqing Lu*
 
     `CVPR 2019`
@@ -114,6 +125,7 @@ A curated list of diverse image (mainly, sometimes video) captioning. Note that 
 ## 2018
 
 1. [GroupCap: Group-Based Image Captioning With Structured Relevance and Diversity Constraints](https://openaccess.thecvf.com/content_cvpr_2018/html/Chen_GroupCap_Group-Based_Image_CVPR_2018_paper.html) 
+   
    *Fuhai Chen, Rongrong Ji, Xiaoshuai Sun, Yongjian Wu, Jinsong Su*
 
    `CVPR 2018`
@@ -131,6 +143,7 @@ A curated list of diverse image (mainly, sometimes video) captioning. Note that 
    ECCV 2018 [[pytorch-code](https://github.com/metro-smiles/CapG_RevG_Code)]
 
 4. [Categorizing Concepts With Basic Level for Vision-to-Language](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Categorizing_Concepts_With_CVPR_2018_paper.pdf) 
+   
    *Hanzhang Wang, Hanli Wang, Kaisheng Xu*
 
 
@@ -138,12 +151,15 @@ A curated list of diverse image (mainly, sometimes video) captioning. Note that 
 ## 2017
 
 1. [Speaking the Same Language: Matching Machine to Human Captions by Adversarial Training](https://openaccess.thecvf.com/content_ICCV_2017/papers/Shetty_Speaking_the_Same_ICCV_2017_paper.pdf) 
+   
    *Rakshith Shetty, Marcus Rohrbach, Lisa Anne Hendricks, Mario Fritz, Bernt Schiele*
 
    `ICCV 2017` 
 
 2. [Towards Diverse and Natural Image Descriptions via a Conditional GAN](https://openaccess.thecvf.com/content_ICCV_2017/papers/Dai_Towards_Diverse_and_ICCV_2017_paper.pdf) 
+   
    *Bo Dai, Sanja Fidler, Raquel Urtasun, Dahua Lin*
+   
    `ICCV 2017` [[video](https://www.youtube.com/watch?v=Xnk1bjZCEYo)]
 
 
@@ -151,11 +167,13 @@ A curated list of diverse image (mainly, sometimes video) captioning. Note that 
 ## 2016
 
 1. [Diverse Image Captioning via GroupTalk](https://www.ijcai.org/Proceedings/16/Papers/420.pdf)  
+   
    *Zhuhao Wang, Fei Wu, Weiming Lu, Jun Xiao, Xi Li, Zitong Zhang, Yueting Zhuang*
 
    `IJCAI 2016`
 
 2. [Diverse Beam Search: Decoding Diverse Solutions from Neural Sequence Models](https://arxiv.org/abs/1610.02424) 
+   
    *Ashwin K. Vijayakumar, Michael Cogswell, Ramprasaath R. Selvaraju, Qing Sun, Stefan Lee, David J. Crandall, Dhruv Batra*
 
    `CoRR 2016` [[lua-code](https://github.com/Cloud-CV/diverse-beam-search)]  [[demo](http://dbs.cloudcv.org/captioning)] [[openreview from ICLR'17](https://openreview.net/forum?id=HJV1zP5xg&noteId=ryZU_K87x)]

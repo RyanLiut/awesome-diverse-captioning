@@ -11,6 +11,8 @@ A curated list of diverse image (mainly, sometimes video) captioning. Note that 
    *Long Chen, Zhihong Jiang, Jun Xiao, Wei Liu*
 
    `CVPR 2021`
+   
+   `controllable`
 
 2. [Towards Accurate Text-Based Image Captioning With Content Diversity Exploration](https://openaccess.thecvf.com/content/CVPR2021/papers/Song_Towards_Diverse_Paragraph_Captioning_for_Untrimmed_Videos_CVPR_2021_paper.pdf)
 
@@ -39,6 +41,8 @@ A curated list of diverse image (mainly, sometimes video) captioning. Note that 
    *Shweta Mahajan and Stefan Roth*
 
    `NIPS 2020` [[pytorch-code](https://github.com/visinf/cos-cvae)] [[review](https://papers.nips.cc/paper/2020/file/24bea84d52e6a1f8025e313c2ffff50a-Review.html)]
+   
+   `diversity`
 
 3. [On Diversity in Image Captioning: Metrics and Methods](https://doi.ieeecomputersociety.org/10.1109/TPAMI.2020.3013834)
    
@@ -182,6 +186,16 @@ A curated list of diverse image (mainly, sometimes video) captioning. Note that 
 
    `CoRR 2016` [[lua-code](https://github.com/Cloud-CV/diverse-beam-search)]  [[demo](http://dbs.cloudcv.org/captioning)] [[openreview from ICLR'17](https://openreview.net/forum?id=HJV1zP5xg&noteId=ryZU_K87x)]
 
+
+
+## 2015
+1. [Deep Captioning with Multimodal Recurrent Neural Networks (m-RNN)](https://arxiv.org/pdf/1412.6632.pdf)
+
+   *Junhua Mao, Wei Xu, Yi Yang, Jiang Wang, Zhiheng Huang, Alan Yuille*
+   
+   `ICLR 2015` [[code:TF-mRNN](https://github.com/mjhucla/TF-mRNN)]  [[code:mRNN-CR](https://github.com/mjhucla/mRNN-CR)]
+   
+   `diversity`  `consensus re-ranking`
 
 
 ## Main Reference

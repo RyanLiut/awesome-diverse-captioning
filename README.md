@@ -84,18 +84,24 @@ A curated list of diverse image (mainly, sometimes video) captioning. Note that 
    *Bairui Wang, Lin Ma, Wei Zhang, Wenhao Jiang, Jingwen Wang, Wei Liu*
 
    `ICCV 2019` [[pytorch-code](https://github.com/vsislab/Controllable_XGating)]
+   
+   `controllable`
 
 4. VSSI-cap: [Variational Structured Semantic Inference for Diverse Image Captioning](https://openaccess.thecvf.com/content_ICCV_2019/papers/Liu_Generating_Diverse_and_Descriptive_Image_Captions_Using_Visual_Paraphrases_ICCV_2019_paper.pdf)
 
    *Fuhai Chen, Rongrong Ji, Jiayi Ji, Xiaoshuai Sun, Baochang Zhang, Xuri Ge, Yongjian Wu, Feiyue Huang, Yan Wang*
 
    `NIPS 2019`
+   
+   `diversity`
 
 5. [Show, Control and Tell: A Framework for Generating Controllable and Grounded Captions](https://arxiv.org/pdf/1811.10652.pdf) 
    
    *Marcella Cornia, Lorenzo Baraldi, Rita Cucchiara*
 
    `CVPR 2019` [[pytorch-code](https://github.com/aimagelab/show-control-and-tell)] 
+   
+   `controllable`
 
 6. [Towards Diverse and Accurate Image Captions via Reinforcing Determinantal Point Process](https://arxiv.org/abs/1908.04919)
    

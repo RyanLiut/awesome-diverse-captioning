@@ -49,13 +49,16 @@ A curated list of diverse image (mainly, sometimes video) captioning. Note that 
    *Qingzhong Wang and Jia Wan and Antoni B. Chan*
    
    `TPAMI 2020`  [[pytorch-code](https://github.com/qingzwang/DiverseImageCaptioning)]
+   
+   `survey`  `diversity`  `metrics`
 
 4. [Improving Image Captioning Evaluation by Considering Inter References Variance](https://www.aclweb.org/anthology/2020.acl-main.93.pdf)
    
    *Yanzhi Yi and Hangyu Deng and Jinglu Hu*
    
    `ACL 2020` [[code](https://github.com/ck0123/improved-bertscore-for-image-captioning-evaluation)]
-
+   
+   `metrics`
    
 
 ## 2019
@@ -65,12 +68,16 @@ A curated list of diverse image (mainly, sometimes video) captioning. Note that 
    *Aditya Deshpande, Jyoti Aneja, Liwei Wang, Alexander Schwing, David Forsyth*
 
    `CVPR 2019`.
+   
+   `diversity`  `controllable`
 
 2. [Generating Diverse and Descriptive Image Captions Using Visual Paraphrases](https://openaccess.thecvf.com/content_ICCV_2019/papers/Liu_Generating_Diverse_and_Descriptive_Image_Captions_Using_Visual_Paraphrases_ICCV_2019_paper.pdf)
 
    *Lixin Liu, Jiajun Tang, Xiaojun Wan, Zongming Guo*
 
    `ICCV 2019`
+   
+   `descriptiveness`
 
 3. [Controllable Video Captioning With POS Sequence Guidance Based on Gated Fusion Network](https://arxiv.org/abs/1908.10072)
    

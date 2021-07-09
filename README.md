@@ -93,7 +93,7 @@ A curated list of diverse image (mainly, sometimes video) captioning. Note that 
 
    `NIPS 2019`
    
-   `diversity`
+   `diversity`  `VAE`  `discriminativeness`
 
 5. [Show, Control and Tell: A Framework for Generating Controllable and Grounded Captions](https://arxiv.org/pdf/1811.10652.pdf) 
    
@@ -126,6 +126,8 @@ A curated list of diverse image (mainly, sometimes video) captioning. Note that 
    *Jyoti Aneja, Harsh Agrawal, Dhruv Batra, Alexander Schwing*
 
    `ICCV 2019` 
+   
+   `diversity`  `VAE`
 
 9. [Describing Like Humans: On Diversity in Image Captioning](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Describing_Like_Humans_On_Diversity_in_Image_Captioning_CVPR_2019_paper.pdf)
    
@@ -176,6 +178,8 @@ A curated list of diverse image (mainly, sometimes video) captioning. Note that 
    *Rakshith Shetty, Marcus Rohrbach, Lisa Anne Hendricks, Mario Fritz, Bernt Schiele*
 
    `ICCV 2017` 
+   
+   `diversity`
 
 2. [Towards Diverse and Natural Image Descriptions via a Conditional GAN](https://openaccess.thecvf.com/content_ICCV_2017/papers/Dai_Towards_Diverse_and_ICCV_2017_paper.pdf) 
    
@@ -183,6 +187,13 @@ A curated list of diverse image (mainly, sometimes video) captioning. Note that 
    
    `ICCV 2017` [[video](https://www.youtube.com/watch?v=Xnk1bjZCEYo)]
 
+3. [Diverse and Accurate Image Description Using a Variational Auto-Encoder with an Additive Gaussian Encoding Space](https://proceedings.neurips.cc/paper/2017/hash/4b21cf96d4cf612f239a6c322b10c8fe-Abstract.html)
+
+  *Liwei Wang, Alexander Schwing, Svetlana Lazebnik*
+  
+  `NeurIPS 2017`  [[Review](https://papers.nips.cc/paper/2017/file/4b21cf96d4cf612f239a6c322b10c8fe-Reviews.html)]
+  
+  `diversity`  `VAE`
 
 
 ## 2016

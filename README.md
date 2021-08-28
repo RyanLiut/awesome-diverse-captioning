@@ -31,6 +31,8 @@ A curated list of diverse image (mainly, sometimes video) captioning. Note that 
    *Anwen Hu, Shizhe Chen, Qin Jin*
 
    `ACMMM 2021`
+   
+   `controllable`
 
 ## 2020
 

@@ -26,7 +26,11 @@ A curated list of diverse image (mainly, sometimes video) captioning. Note that 
 
    `CVPR 2021`
 
-   
+4. [Question-controlled Text-aware Image Captioning](https://arxiv.org/abs/2108.02059)
+
+   *Anwen Hu, Shizhe Chen, Qin Jin*
+
+   `ACMMM 2021`
 
 ## 2020
 

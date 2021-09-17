@@ -205,13 +205,13 @@ A curated list of diverse image (mainly, sometimes video) captioning. Note that 
 
    *Zhiqiang Shen, Jianguo Li, Zhou Su, Minjun Li, Yurong Chen, Yu-Gang Jiang, Xiangyang Xue*
    
-   `CVPR 2017' 'VAE`
+   `CVPR 2017` `VAE`
 
 5. [From Deterministic to Generative: Multimod](https://ieeexplore.ieee.org/document/8438512)
 
    *Jingkuan Song, Yuyu Guo, Lianli Gao, Xuelong Li, Alan Hanjalic, Heng Tao Shen*
    
-   `IEEE Trans Neural Netw Learn Syst 2017' 'VAE' 
+   `IEEE Trans Neural Netw Learn Syst 2017` `VAE`
 
 ## 2016
 

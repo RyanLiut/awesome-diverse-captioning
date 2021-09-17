@@ -1,6 +1,6 @@
 # Awesome-Diverse-Captioning
 
-A curated list of diverse image (mainly, sometimes video) captioning. Note that broadly, visual diverse captioning includes diverse caption set (one to many) and distinctive caption (for one single caption) with/without explicit controllable signs. More detailed tags will be updated later. Feel free to inform me if you have any comment.
+A curated list of diverse image (mainly, sometimes video) captioning. Note that broadly, visual diverse captioning includes diverse caption set (one to many) and distinctive caption (for one single caption) with/without explicit controllable signs. Dense video captioning is excluded since it has become a subarea of video captioning. More detailed tags will be updated later. Feel free to inform me if you have any comment.
 
 ## Paper List
 
@@ -201,6 +201,17 @@ A curated list of diverse image (mainly, sometimes video) captioning. Note that 
   
   `diversity`  `VAE`
 
+4. [Weakly Supervised Dense Video Captioning](https://openaccess.thecvf.com/content_cvpr_2017/papers/Shen_Weakly_Supervised_Dense_CVPR_2017_paper.pdf)
+
+   *Zhiqiang Shen, Jianguo Li, Zhou Su, Minjun Li, Yurong Chen, Yu-Gang Jiang, Xiangyang Xue*
+   
+   `CVPR 2017' 'VAE`
+
+5. [From Deterministic to Generative: Multimod](https://ieeexplore.ieee.org/document/8438512)
+
+   *Jingkuan Song, Yuyu Guo, Lianli Gao, Xuelong Li, Alan Hanjalic, Heng Tao Shen*
+   
+   `IEEE Trans Neural Netw Learn Syst 2017' 'VAE' 
 
 ## 2016
 

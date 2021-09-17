@@ -195,11 +195,11 @@ A curated list of diverse image (mainly, sometimes video) captioning. Note that 
 
 3. [Diverse and Accurate Image Description Using a Variational Auto-Encoder with an Additive Gaussian Encoding Space](https://proceedings.neurips.cc/paper/2017/hash/4b21cf96d4cf612f239a6c322b10c8fe-Abstract.html)
 
-  *Liwei Wang, Alexander Schwing, Svetlana Lazebnik*
+   *Liwei Wang, Alexander Schwing, Svetlana Lazebnik*
   
-  `NeurIPS 2017`  [[Review](https://papers.nips.cc/paper/2017/file/4b21cf96d4cf612f239a6c322b10c8fe-Reviews.html)]
+   `NeurIPS 2017`  [[Review](https://papers.nips.cc/paper/2017/file/4b21cf96d4cf612f239a6c322b10c8fe-Reviews.html)]
   
-  `diversity`  `VAE`
+   `diversity`  `VAE`
 
 4. [Weakly Supervised Dense Video Captioning](https://openaccess.thecvf.com/content_cvpr_2017/papers/Shen_Weakly_Supervised_Dense_CVPR_2017_paper.pdf)
 

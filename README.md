@@ -33,6 +33,14 @@ A curated list of diverse image (mainly, sometimes video) captioning. Note that 
    `ACMMM 2021`
    
    `controllable`
+   
+5. [O2NA: An Object-Oriented Non-Autoregressive Approach for Controllable Video Captioning (Short)](https://web.pkusz.edu.cn/adsp/files/2021/07/ACL2021_O2NA.pdf)
+
+   *Fenglin Liu, Xuancheng Ren, Xian Wu, Bang Yang, Shen Ge, Yuexian Zou, Xu Sun*
+
+   `ACL 2021`
+   
+   `controllable`
 
 ## 2020
 

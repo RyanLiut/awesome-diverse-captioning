@@ -41,6 +41,14 @@ A curated list of diverse image (mainly, sometimes video) captioning. Note that 
    `ACL 2021`
    
    `controllable`
+   
+6. [Control Image Captioning Spatially and Temporally](https://aclanthology.org/2021.acl-long.157.pdf)
+
+   *Kun Yan, Lei Ji, Huaishao Luok, Ming Zhou, Nan Duan, Shuai Ma*
+
+   `ACL 2021`
+   
+   `controllable (mouse traces)`
 
 ## 2020
 

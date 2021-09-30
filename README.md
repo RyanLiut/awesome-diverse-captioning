@@ -49,6 +49,14 @@ A curated list of diverse image (mainly, sometimes video) captioning. Note that 
    `ACL 2021`
    
    `controllable (mouse traces)`
+   
+7. [Understanding Guided Image Captioning Performance across Domains](https://arxiv.org/abs/2012.02339)
+
+   *Edwin G. Ng, Bo Pang, Piyush Sharma, Radu Soricut*
+
+   `CoNLL 2021`
+   
+   `controllable (semantic label)`
 
 ## 2020
 
@@ -124,6 +132,14 @@ A curated list of diverse image (mainly, sometimes video) captioning. Note that 
    `CVPR 2019` [[pytorch-code](https://github.com/aimagelab/show-control-and-tell)] 
    
    `controllable`
+   
+5. [Intention Oriented Image Captions with Guiding Objects](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zheng_Intention_Oriented_Image_Captions_With_Guiding_Objects_CVPR_2019_paper.pdf) 
+   
+   *Yue Zheng, Yali Li and Shengjin Wang*
+
+   `CVPR 2019` [[unfinishe-code](https://github.com/google-research-datasets/T2-Guiding)] 
+   
+   `controllable (object labels)`
 
 6. [Towards Diverse and Accurate Image Captions via Reinforcing Determinantal Point Process](https://arxiv.org/abs/1908.04919)
    

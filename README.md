@@ -58,6 +58,15 @@ A curated list of diverse image (mainly, sometimes video) captioning. Note that 
    
    `controllable (semantic label)`
 
+8. [Partial Off-Policy Learning: Balance Accuracy and Diversity for Human-Oriented Image Captioning](https://openaccess.thecvf.com/content/ICCV2021/papers/Shi_Partial_Off-Policy_Learning_Balance_Accuracy_and_Diversity_for_Human-Oriented_Image_ICCV_2021_paper.pdf)
+  
+    *Jiahe Shi, Yali Li, Shengjin Wang*
+
+    `ICCV 2021`
+
+    `controllable`
+  
+
 ## 2020
 
 1. LNFMM: [Latent Normalizing Flows for Many-to-Many Cross Domain Mappings](https://openreview.net/pdf?id=SJxE8erKDH) 
@@ -133,7 +142,7 @@ A curated list of diverse image (mainly, sometimes video) captioning. Note that 
    
    `controllable`
    
-5. [Intention Oriented Image Captions with Guiding Objects](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zheng_Intention_Oriented_Image_Captions_With_Guiding_Objects_CVPR_2019_paper.pdf) 
+6. [Intention Oriented Image Captions with Guiding Objects](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zheng_Intention_Oriented_Image_Captions_With_Guiding_Objects_CVPR_2019_paper.pdf) 
    
    *Yue Zheng, Yali Li and Shengjin Wang*
 
@@ -141,43 +150,43 @@ A curated list of diverse image (mainly, sometimes video) captioning. Note that 
    
    `controllable (object labels)`
 
-6. [Towards Diverse and Accurate Image Captions via Reinforcing Determinantal Point Process](https://arxiv.org/abs/1908.04919)
+7. [Towards Diverse and Accurate Image Captions via Reinforcing Determinantal Point Process](https://arxiv.org/abs/1908.04919)
    
    *Wang, Qingzhong and Chan, Antoni B*
    
    `Arxiv 2019` [[pytorch-code](https://github.com/qingzwang/DiverseImageCaptioning)]
 
-7. [Curiosity-driven Reinforcement Learning for Diverse Visual Paragraph Generation](https://arxiv.org/pdf/1908.00169) 
+8. [Curiosity-driven Reinforcement Learning for Diverse Visual Paragraph Generation](https://arxiv.org/pdf/1908.00169) 
    
    *Yadan Luo, Zi Huang, Zheng Zhang, Ziwei Wang, Jingjing Li, Yang Yang*
 
    `ACM MM 2019`
 
-8. [Engaging Image Captioning via Personality](https://openaccess.thecvf.com/content_CVPR_2019/papers/Shuster_Engaging_Image_Captioning_via_Personality_CVPR_2019_paper.pdf)
+9. [Engaging Image Captioning via Personality](https://openaccess.thecvf.com/content_CVPR_2019/papers/Shuster_Engaging_Image_Captioning_via_Personality_CVPR_2019_paper.pdf)
    
    *Kurt Shuster, Samuel Humeau, Hexiang Hu, Antoine Bordes, Jason Weston*
 
    `CVPR 2019` [[Openreview for ICLR 19](https://openreview.net/forum?id=HJN6DiAcKQ)]
 
-8. [Sequential Latent Spaces for Modeling the Intention During Diverse Image Captioning](https://openaccess.thecvf.com/content_ICCV_2019/papers/Aneja_Sequential_Latent_Spaces_for_Modeling_the_Intention_During_Diverse_Image_ICCV_2019_paper.pdf)
-   
-   *Jyoti Aneja, Harsh Agrawal, Dhruv Batra, Alexander Schwing*
+10. [Sequential Latent Spaces for Modeling the Intention During Diverse Image Captioning](https://openaccess.thecvf.com/content_ICCV_2019/papers/Aneja_Sequential_Latent_Spaces_for_Modeling_the_Intention_During_Diverse_Image_ICCV_2019_paper.pdf)
 
-   `ICCV 2019` 
-   
-   `diversity`  `VAE`
+     *Jyoti Aneja, Harsh Agrawal, Dhruv Batra, Alexander Schwing*
 
-9. [Describing Like Humans: On Diversity in Image Captioning](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Describing_Like_Humans_On_Diversity_in_Image_Captioning_CVPR_2019_paper.pdf)
-   
-   *Qingzhong Wang, Antoni B. Chan*
+     `ICCV 2019` 
 
-   `CVPR 2019`
+     `diversity`  `VAE`
 
-10. [MSCap: Multi-Style Image Captioning With Unpaired Stylized Text](https://openaccess.thecvf.com/CVPR2019_search)
-    
-    *Longteng Guo, Jing Liu, Peng Yao, Jiangwei Li, Hanqing Lu*
+11. [Describing Like Humans: On Diversity in Image Captioning](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Describing_Like_Humans_On_Diversity_in_Image_Captioning_CVPR_2019_paper.pdf)
 
-    `CVPR 2019`
+     *Qingzhong Wang, Antoni B. Chan*
+
+     `CVPR 2019`
+
+12. [MSCap: Multi-Style Image Captioning With Unpaired Stylized Text](https://openaccess.thecvf.com/CVPR2019_search)
+
+      *Longteng Guo, Jing Liu, Peng Yao, Jiangwei Li, Hanqing Lu*
+
+      `CVPR 2019`
 
     
 

@@ -226,13 +226,13 @@ A curated list of diverse image (mainly, sometimes video) captioning. Note that 
 
    `ICCV 2017` 
    
-   `diversity`
+   `diversity` `GAN`
 
 2. [Towards Diverse and Natural Image Descriptions via a Conditional GAN](https://openaccess.thecvf.com/content_ICCV_2017/papers/Dai_Towards_Diverse_and_ICCV_2017_paper.pdf) 
    
    *Bo Dai, Sanja Fidler, Raquel Urtasun, Dahua Lin*
    
-   `ICCV 2017` [[video](https://www.youtube.com/watch?v=Xnk1bjZCEYo)]
+   `ICCV 2017` `GAN` [[video](https://www.youtube.com/watch?v=Xnk1bjZCEYo)]
 
 3. [Diverse and Accurate Image Description Using a Variational Auto-Encoder with an Additive Gaussian Encoding Space](https://proceedings.neurips.cc/paper/2017/hash/4b21cf96d4cf612f239a6c322b10c8fe-Abstract.html)
 

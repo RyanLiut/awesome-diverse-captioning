@@ -99,7 +99,7 @@ A curated list of diverse image (mainly, sometimes video) captioning. Note that 
    
    `metrics`
    
-5. [Better Captioning with Sequence-Level Exploration Jia](https://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_Better_Captioning_With_Sequence-Level_Exploration_CVPR_2020_paper.pdf)
+5. [Better Captioning with Sequence-Level Exploration](https://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_Better_Captioning_With_Sequence-Level_Exploration_CVPR_2020_paper.pdf)
    
    *Jia Chen and Qin Jin*
    

@@ -14,6 +14,37 @@ A curated list of diverse image (mainly, sometimes video, and even textual) capt
    
    `conditional`  `metrics`  `decoding sampling`
    
+2. [Hierarchical Sketch Induction for Paraphrase Generation](https://arxiv.org/abs/2203.03463)
+
+   *Tom Hosking, Hao Tang, Mirella Lapata*
+
+   `ACL 2022`
+   
+   `controllable`  `VAEs`
+   
+3. [Generating Scientific Definitions with Controllable Complexity](https://arxiv.org/abs/2203.15108)
+
+   *Tal August, Katharina Reinecke, Noah A. Smith*
+
+   `ACL 2022`
+   
+   `controllable`  `definition modeling`
+   
+4. [CTRLEval: An Unsupervised Reference-Free Metric for Evaluating Controlled Text Generation](https://arxiv.org/abs/2204.00862)
+
+   *Pei Ke, Hao Zhou, Yankai Lin, Peng Li, Jie Zhou, Xiaoyan Zhu, Minlie Huang*
+
+   `ACL 2022`
+   
+   `controllable`  `metric`
+   
+4. Controllable Dictionary Example Generation: Generating Example Sentences for Specific Targeted Audiences
+
+   *Xingwei He, Siu Ming Yiu*
+
+   `ACL 2022`
+   
+   `controllable`
 
 ## 2021
 

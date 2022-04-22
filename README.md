@@ -1,8 +1,19 @@
 # Awesome-Diverse-Captioning
 
-A curated list of diverse image (mainly, sometimes video) captioning. Note that broadly, visual diverse captioning includes diverse caption set (one to many) and distinctive caption (for one single caption) with/without explicit controllable signs. Dense video captioning is excluded since it has become a subarea of video captioning. More detailed tags will be updated later. Feel free to inform me if you have any comment.
+A curated list of diverse image (mainly, sometimes video, and even textual) captioning. Note that broadly, visual diverse captioning includes diverse caption set (one to many) and distinctive caption (for one single caption) with/without explicit controllable signs. Dense video captioning is excluded since it has become a subarea of video captioning. More detailed tags will be updated later. Feel free to inform me if you have any comment.
 
 ## Paper List
+
+## 2022
+
+1. [A Well-Composed Text is Half Done! Composition Sampling for Diverse Conditional Generation](https://arxiv.org/abs/2203.15108)
+
+   *Shashi Narayan, Gonçalo Simões, Yao Zhao, Joshua Maynez, Dipanjan Das, Michael Collins, Mirella Lapata (Google)*
+
+   `ACL 2022` [[partial code](https://github.com/google-research/language/tree/master/language/frost)]
+   
+   `conditional`  `metrics`  `decoding sampling`
+   
 
 ## 2021
 

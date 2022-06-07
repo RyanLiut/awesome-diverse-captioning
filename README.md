@@ -297,7 +297,7 @@ A curated list of diverse image (mainly, sometimes video, and even textual) capt
    
    `CVPR 2017` `VAE`
 
-5. [From Deterministic to Generative: Multimod](https://ieeexplore.ieee.org/document/8438512)
+5. [From Deterministic to Generative: Multimodal Stochastic RNNs for Video Captioning](https://ieeexplore.ieee.org/document/8438512)
 
    *Jingkuan Song, Yuyu Guo, Lianli Gao, Xuelong Li, Alan Hanjalic, Heng Tao Shen*
    

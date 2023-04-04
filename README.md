@@ -46,6 +46,14 @@ A curated list of diverse image (mainly, sometimes video, and even textual) capt
    
    `controllable`
 
+5. [Show, Tell and Rephrase: Diverse Video Captioning via Two-Stage Progressive Training](https://ieeexplore.ieee.org/abstract/document/9999037/metrics#metrics)
+
+   *Zhu Liu, Teng Wang, Jinrui Zhang, Feng Zheng, Wenhao Jiang, Ke Lu*
+
+   `TMM 2022`
+   
+   `diversity` `metric`
+
 ## 2021
 
 1. [Human-Like Controllable Image Captioning With Verb-Specific Semantic Roles](https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_Human-Like_Controllable_Image_Captioning_With_Verb-Specific_Semantic_Roles_CVPR_2021_paper.pdf)
